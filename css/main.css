@@ -1,7 +1,7 @@
 .roundedbutton {
   border-radius: 30px;
   background: #2980b9;
-  color: #fff;
+  color: #eee;
 }
 h1 {
   font-size: 48px;
@@ -63,7 +63,7 @@ section article header h2 {
 section article p button[type="submit"] {
   border-radius: 30px;
   background: #2980b9;
-  color: #fff;
+  color: #eee;
   padding: 5px 2px;
 }
 footer .mysquare {
